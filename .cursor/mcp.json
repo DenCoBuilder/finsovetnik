@@ -4,7 +4,7 @@
       "command": "npx",
       "args": ["-y", "@upstash/context7-mcp"]
     },
-    "n8n-s060874": {
+    "n8n-de": {
       "command": "npx",
       "args": ["n8n-mcp"],
       "env": {
@@ -12,7 +12,7 @@
         "LOG_LEVEL": "error",
         "DISABLE_CONSOLE_OUTPUT": "true",
         "N8N_API_URL": "https://ainetic.space",
-        "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZGU5NjdiNC04YzFhLTQ0YmUtOTgyNC01NzEwN2QyNmI5MzAiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzUxMjE2OTM2fQ.JgO-tBBv7QLvHUjOXYLagCPXUv4vNVWCDSU0QEp978I"
+        "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5YjM1Zjc4NS05MjdkLTRkNDUtYjAwMS0wYTE0Nzk2MWY3NmYiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzU1Mjc2NTI5fQ.R_UzDtFM89GjDhV2G0JWn1nyo3reVRK0aKg4k2PAcsw"
       }  
     }         
   }
