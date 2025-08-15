@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "Context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"]
+    },
+    "n8n-s060874": {
+      "command": "npx",
+      "args": ["n8n-mcp"],
+      "env": {
+        "MCP_MODE": "stdio",
+        "LOG_LEVEL": "error",
+        "DISABLE_CONSOLE_OUTPUT": "true",
+        "N8N_API_URL": "https://ainetic.space",
+        "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZGU5NjdiNC04YzFhLTQ0YmUtOTgyNC01NzEwN2QyNmI5MzAiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzUxMjE2OTM2fQ.JgO-tBBv7QLvHUjOXYLagCPXUv4vNVWCDSU0QEp978I"
+      }  
+    }         
+  }
+}
